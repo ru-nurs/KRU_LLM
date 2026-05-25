@@ -4,3 +4,4 @@ langchain-core
 chromadb
 pypdf
 docx2txt
+langchain-text-splitters
